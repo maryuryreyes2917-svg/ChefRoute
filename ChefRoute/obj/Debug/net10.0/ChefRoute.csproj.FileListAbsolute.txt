@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive\Documentos\Trabajos de Estructuras de Datos\ChefRoute\ChefRoute\bin\Debug\net10.0\ChefRoute.exe
+C:\Users\ASUS\OneDrive\Documentos\Trabajos de Estructuras de Datos\ChefRoute\ChefRoute\bin\Debug\net10.0\receta.json
+C:\Users\ASUS\OneDrive\Documentos\Trabajos de Estructuras de Datos\ChefRoute\ChefRoute\bin\Debug\net10.0\ChefRoute.deps.json
+C:\Users\ASUS\OneDrive\Documentos\Trabajos de Estructuras de Datos\ChefRoute\ChefRoute\bin\Debug\net10.0\ChefRoute.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Documentos\Trabajos de Estructuras de Datos\ChefRoute\ChefRoute\bin\Debug\net10.0\ChefRoute.dll
+C:\Users\ASUS\OneDrive\Documentos\Trabajos de Estructuras de Datos\ChefRoute\ChefRoute\bin\Debug\net10.0\ChefRoute.pdb
+C:\Users\ASUS\OneDrive\Documentos\Trabajos de Estructuras de Datos\ChefRoute\ChefRoute\obj\Debug\net10.0\ChefRoute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documentos\Trabajos de Estructuras de Datos\ChefRoute\ChefRoute\obj\Debug\net10.0\ChefRoute.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documentos\Trabajos de Estructuras de Datos\ChefRoute\ChefRoute\obj\Debug\net10.0\ChefRoute.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Documentos\Trabajos de Estructuras de Datos\ChefRoute\ChefRoute\obj\Debug\net10.0\ChefRoute.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documentos\Trabajos de Estructuras de Datos\ChefRoute\ChefRoute\obj\Debug\net10.0\ChefRoute.dll
+C:\Users\ASUS\OneDrive\Documentos\Trabajos de Estructuras de Datos\ChefRoute\ChefRoute\obj\Debug\net10.0\refint\ChefRoute.dll
+C:\Users\ASUS\OneDrive\Documentos\Trabajos de Estructuras de Datos\ChefRoute\ChefRoute\obj\Debug\net10.0\ChefRoute.pdb
+C:\Users\ASUS\OneDrive\Documentos\Trabajos de Estructuras de Datos\ChefRoute\ChefRoute\obj\Debug\net10.0\ChefRoute.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Documentos\Trabajos de Estructuras de Datos\ChefRoute\ChefRoute\obj\Debug\net10.0\ref\ChefRoute.dll
+C:\Users\ASUS\OneDrive\Documentos\Trabajos de Estructuras de Datos\ChefRoute\ChefRoute\obj\Debug\net10.0\ChefRoute.csproj.Up2Date

@@ -1,0 +1,38 @@
+﻿{
+  "plato": "Pasta Alfredo",
+  "tareas": [
+    "Cocinar pasta",
+    "Preparar salsa",
+    "Cortar pollo",
+    "Cocinar pollo",
+    "Mezclar ingredientes",
+    "Servir plato"
+  ],
+  "dependencias": [
+    {
+      "desde": "Cocinar pasta",
+      "hacia": "Mezclar ingredientes",
+      "tiempoMinutos": 2
+    },
+    {
+      "desde": "Preparar salsa",
+      "hacia": "Mezclar ingredientes",
+      "tiempoMinutos": 1
+    },
+    {
+      "desde": "Cortar pollo",
+      "hacia": "Cocinar pollo",
+      "tiempoMinutos": 1
+    },
+    {
+      "desde": "Cocinar pollo",
+      "hacia": "Mezclar ingredientes",
+      "tiempoMinutos": 2
+    },
+    {
+      "desde": "Mezclar ingredientes",
+      "hacia": "Servir plato",
+      "tiempoMinutos": 1
+    }
+  ]
+}

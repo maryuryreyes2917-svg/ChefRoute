@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Trabajos de Estructuras de Datos\\ChefRoute\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E731-8EAF-83E2-7FDA-8D35945B4674}|ChefRoute\\ChefRoute.csproj|c:\\users\\asus\\onedrive\\documentos\\trabajos de estructuras de datos\\chefroute\\chefroute\\receta.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB95E731-8EAF-83E2-7FDA-8D35945B4674}|ChefRoute\\ChefRoute.csproj|solutionrelative:chefroute\\receta.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E731-8EAF-83E2-7FDA-8D35945B4674}|ChefRoute\\ChefRoute.csproj|c:\\users\\asus\\onedrive\\documentos\\trabajos de estructuras de datos\\chefroute\\chefroute\\estructuras\\listaenlazadasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E731-8EAF-83E2-7FDA-8D35945B4674}|ChefRoute\\ChefRoute.csproj|solutionrelative:chefroute\\estructuras\\listaenlazadasimple.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E731-8EAF-83E2-7FDA-8D35945B4674}|ChefRoute\\ChefRoute.csproj|c:\\users\\asus\\onedrive\\documentos\\trabajos de estructuras de datos\\chefroute\\chefroute\\estructuras\\nodolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E731-8EAF-83E2-7FDA-8D35945B4674}|ChefRoute\\ChefRoute.csproj|solutionrelative:chefroute\\estructuras\\nodolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E731-8EAF-83E2-7FDA-8D35945B4674}|ChefRoute\\ChefRoute.csproj|c:\\users\\asus\\onedrive\\documentos\\trabajos de estructuras de datos\\chefroute\\chefroute\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E731-8EAF-83E2-7FDA-8D35945B4674}|ChefRoute\\ChefRoute.csproj|solutionrelative:chefroute\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E731-8EAF-83E2-7FDA-8D35945B4674}|ChefRoute\\ChefRoute.csproj|c:\\users\\asus\\onedrive\\documentos\\trabajos de estructuras de datos\\chefroute\\chefroute\\modelos\\vertice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E731-8EAF-83E2-7FDA-8D35945B4674}|ChefRoute\\ChefRoute.csproj|solutionrelative:chefroute\\modelos\\vertice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E731-8EAF-83E2-7FDA-8D35945B4674}|ChefRoute\\ChefRoute.csproj|c:\\users\\asus\\onedrive\\documentos\\trabajos de estructuras de datos\\chefroute\\chefroute\\modelos\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E731-8EAF-83E2-7FDA-8D35945B4674}|ChefRoute\\ChefRoute.csproj|solutionrelative:chefroute\\modelos\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E731-8EAF-83E2-7FDA-8D35945B4674}|ChefRoute\\ChefRoute.csproj|c:\\users\\asus\\onedrive\\documentos\\trabajos de estructuras de datos\\chefroute\\chefroute\\modelos\\arista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E731-8EAF-83E2-7FDA-8D35945B4674}|ChefRoute\\ChefRoute.csproj|solutionrelative:chefroute\\modelos\\arista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E731-8EAF-83E2-7FDA-8D35945B4674}|ChefRoute\\ChefRoute.csproj|c:\\users\\asus\\onedrive\\documentos\\trabajos de estructuras de datos\\chefroute\\chefroute\\estructuras\\listaenlazadacircular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E731-8EAF-83E2-7FDA-8D35945B4674}|ChefRoute\\ChefRoute.csproj|solutionrelative:chefroute\\estructuras\\listaenlazadacircular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB95E731-8EAF-83E2-7FDA-8D35945B4674}|ChefRoute\\ChefRoute.csproj|c:\\users\\asus\\onedrive\\documentos\\trabajos de estructuras de datos\\chefroute\\chefroute\\estructuras\\grafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB95E731-8EAF-83E2-7FDA-8D35945B4674}|ChefRoute\\ChefRoute.csproj|solutionrelative:chefroute\\estructuras\\grafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "receta.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Trabajos de Estructuras de Datos\\ChefRoute\\ChefRoute\\receta.json",
+              "RelativeDocumentMoniker": "ChefRoute\\receta.json",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Trabajos de Estructuras de Datos\\ChefRoute\\ChefRoute\\receta.json",
+              "RelativeToolTip": "ChefRoute\\receta.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-08T21:02:12.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Grafo.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Trabajos de Estructuras de Datos\\ChefRoute\\ChefRoute\\Estructuras\\Grafo.cs",
+              "RelativeDocumentMoniker": "ChefRoute\\Estructuras\\Grafo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Trabajos de Estructuras de Datos\\ChefRoute\\ChefRoute\\Estructuras\\Grafo.cs",
+              "RelativeToolTip": "ChefRoute\\Estructuras\\Grafo.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAJEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T20:50:46.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vertice.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Trabajos de Estructuras de Datos\\ChefRoute\\ChefRoute\\Modelos\\Vertice.cs",
+              "RelativeDocumentMoniker": "ChefRoute\\Modelos\\Vertice.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Trabajos de Estructuras de Datos\\ChefRoute\\ChefRoute\\Modelos\\Vertice.cs",
+              "RelativeToolTip": "ChefRoute\\Modelos\\Vertice.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T20:50:13.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Arista.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Trabajos de Estructuras de Datos\\ChefRoute\\ChefRoute\\Modelos\\Arista.cs",
+              "RelativeDocumentMoniker": "ChefRoute\\Modelos\\Arista.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Trabajos de Estructuras de Datos\\ChefRoute\\ChefRoute\\Modelos\\Arista.cs",
+              "RelativeToolTip": "ChefRoute\\Modelos\\Arista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T20:48:54.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Trabajos de Estructuras de Datos\\ChefRoute\\ChefRoute\\Modelos\\Tarea.cs",
+              "RelativeDocumentMoniker": "ChefRoute\\Modelos\\Tarea.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Trabajos de Estructuras de Datos\\ChefRoute\\ChefRoute\\Modelos\\Tarea.cs",
+              "RelativeToolTip": "ChefRoute\\Modelos\\Tarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T20:45:44.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Trabajos de Estructuras de Datos\\ChefRoute\\ChefRoute\\Program.cs",
+              "RelativeDocumentMoniker": "ChefRoute\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Trabajos de Estructuras de Datos\\ChefRoute\\ChefRoute\\Program.cs",
+              "RelativeToolTip": "ChefRoute\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T20:35:13.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListaEnlazadaCircular.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Trabajos de Estructuras de Datos\\ChefRoute\\ChefRoute\\Estructuras\\ListaEnlazadaCircular.cs",
+              "RelativeDocumentMoniker": "ChefRoute\\Estructuras\\ListaEnlazadaCircular.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Trabajos de Estructuras de Datos\\ChefRoute\\ChefRoute\\Estructuras\\ListaEnlazadaCircular.cs",
+              "RelativeToolTip": "ChefRoute\\Estructuras\\ListaEnlazadaCircular.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T20:41:00.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListaEnlazadaSimple.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Trabajos de Estructuras de Datos\\ChefRoute\\ChefRoute\\Estructuras\\ListaEnlazadaSimple.cs",
+              "RelativeDocumentMoniker": "ChefRoute\\Estructuras\\ListaEnlazadaSimple.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Trabajos de Estructuras de Datos\\ChefRoute\\ChefRoute\\Estructuras\\ListaEnlazadaSimple.cs",
+              "RelativeToolTip": "ChefRoute\\Estructuras\\ListaEnlazadaSimple.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T20:37:52.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NodoLista.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Trabajos de Estructuras de Datos\\ChefRoute\\ChefRoute\\Estructuras\\NodoLista.cs",
+              "RelativeDocumentMoniker": "ChefRoute\\Estructuras\\NodoLista.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Documentos\\Trabajos de Estructuras de Datos\\ChefRoute\\ChefRoute\\Estructuras\\NodoLista.cs",
+              "RelativeToolTip": "ChefRoute\\Estructuras\\NodoLista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T20:36:14.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
